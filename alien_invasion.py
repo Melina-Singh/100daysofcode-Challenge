@@ -1,6 +1,6 @@
 import sys
 import pygame
-
+ 
 def run_game():
     # Initializing game and creating a screen object.
     pygame.init()
